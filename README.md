@@ -1,3 +1,3 @@
 # bootstrap-utailities
 bootstrap-utailities
-https://sabbirnur.github.io/bootstrap-utailities/.
+https://sabbirnur.github.io/bootstrap-utailities
